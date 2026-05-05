@@ -207,7 +207,7 @@ Open to contributions, improvements, and feature enhancements.
 
 ## 📌 Author
 
-**Rishi Soni**
+**Nikita Bharti**
 
 
 ---
